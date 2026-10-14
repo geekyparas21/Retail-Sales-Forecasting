@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+xgboost
+scikit-learn
+statsmodels
+prophet
+kagglehub
